@@ -5,5 +5,6 @@ Result of developing: style transfer telegram-bot that based on neural network (
 
 This repo is on stage of editing now
 
-![Chatting with bot] (https://github.com/IlyaKusakin/style_transfer_bot/blob/master/chat1.png)
-![Chatting with bot] (https://github.com/IlyaKusakin/style_transfer_bot/blob/master/chat2.png)
+![Chatting_with_bot](https://github.com/IlyaKusakin/style_transfer_bot/blob/master/chat1.png)
+
+![Chatting_with_bot](https://github.com/IlyaKusakin/style_transfer_bot/blob/master/chat2.png)
