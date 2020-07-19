@@ -1,7 +1,7 @@
-# style_transfer_bot
+# Style transfer bot
 This is my final project of Deep Learning School course. 
  
-Result of developing: style transfer telegram-bot that based on neural network (VGG-19)
+Result of developing: style transfer telegram-bot that based on neural network (VGG-19). User can choose style of artist,load image and bot will send styled uwer image.
 
 This repo is on stage of editing now
 
